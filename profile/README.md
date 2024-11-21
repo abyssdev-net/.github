@@ -24,7 +24,7 @@ Explore endless possibilities with [AbyssDev!](https://www.abyssdev.net)
 
 🕊️ [Twitter](https://x.com/abyssdevllc)
 
-🕊️ [Help & FAQ](https://help.abyssdev.net)
+🖐️ [Help & FAQ](https://help.abyssdev.net)
 
 # **We are proud to have completed these achievements**
 
