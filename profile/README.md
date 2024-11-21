@@ -6,10 +6,10 @@ Explore endless possibilities with [AbyssDev!](https://www.abyssdev.net)
 
 # **Notable Products**
 
-     • 👻 Spoof (Original & Leading Player Spoofer, and has been supported for 8 years in a row!)
-     • ⛏️ CoralPrisons (Fastest and #1 prison core on the market)
-     • 🤖 VoteBuddy (The first ever voting-site vote-count botter, with in-game integration)
-     • 🎥 Cinematics (Linar & Spinal Interpolating Cinematics, first of its kind)
+   • 👻 [Spoof](https://www.spoofmc.com) (Original & Leading Player Spoofer, and has been supported for 8 years in a row!)
+   • ⛏️ [CoralPrisons](https://www.coralprisons.com) (Fastest and #1 prison core on the market)
+   • 🤖 [VoteBuddy](https://discord.gg/abyssdev) (The first ever voting-site vote-count botter, with in-game integration)
+   • 🎥 [Cinematics](https://www.blockm.art) (Linar & Spinal Interpolating Cinematics, first of its kind)
 
 # **We are proud to have completed these achievements**
 
