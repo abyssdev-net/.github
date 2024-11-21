@@ -7,12 +7,24 @@ Explore endless possibilities with [AbyssDev!](https://www.abyssdev.net)
 # **Notable Products**
 
    • 👻 [Spoof](https://www.spoofmc.com) (Original & Leading Player Spoofer, and has been supported for 8 years in a row!)
-
+   
    • ⛏️ [CoralPrisons](https://www.coralprisons.com) (Fastest and #1 prison core on the market)
-
+   
    • 🤖 [VoteBuddy](https://discord.gg/abyssdev) (The first ever voting-site vote-count botter, with in-game integration)
-
+   
    • 🎥 [Cinematics](https://www.blockm.art) (Linar & Spinal Interpolating Cinematics, first of its kind)
+
+# Important Links
+
+🚢 [Website](https://www.abyssdev.net)
+
+💻 [Discord Server](https://discord.gg/abyssdev)
+
+🛒 [Buy Products](https://blockm.art)
+
+🕊️ [Twitter](https://x.com/abyssdevllc)
+
+🕊️ [Help & FAQ](https://help.abyssdev.net)
 
 # **We are proud to have completed these achievements**
 
@@ -37,11 +49,3 @@ Explore endless possibilities with [AbyssDev!](https://www.abyssdev.net)
      • 👷 Hit a major obstacle with our production, but then came back stronger than ever with the best releases yet.
      • 🦖 Released our first official Minecraft Server; Tycoons, featuring a custom never-seen-before gamemode.
      • ⚒️ Began working on 30+ product recodes with the goal of providing the most customizable, convenient, fastest, and high-quality product line-up on the market.
-
-# Links
-
-🚢 [Website](https://www.abyssdev.net)
-
-💻 [Discord Server](https://discord.gg/abyssdev)
-
-🛒 [Buy Products](https://blockm.art)
